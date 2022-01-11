@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "54d8120a-c0b9-42ce-952b-7ab1e7773584": {
+      "ProjectGuid": "54d8120a-c0b9-42ce-952b-7ab1e7773584",
+      "DisplayName": "BirdsForm",
+      "ColorIndex": 0
+    },
+    "32ce6a85-8cfe-457c-acac-dabf3896621d": {
+      "ProjectGuid": "32ce6a85-8cfe-457c-acac-dabf3896621d",
+      "DisplayName": "ClassLibrary1",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

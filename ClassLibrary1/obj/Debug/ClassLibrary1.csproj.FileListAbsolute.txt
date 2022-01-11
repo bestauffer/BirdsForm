@@ -1,0 +1,36 @@
+C:\Users\kurt.friedrich\Documents\BirdsForm\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\kurt.friedrich\Documents\BirdsForm\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\kurt.friedrich\Documents\BirdsForm\ClassLibrary1\obj\Debug\ClassLibrary1.csprojResolveAssemblyReference.cache
+C:\Users\kurt.friedrich\Documents\BirdsForm\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\kurt.friedrich\Documents\BirdsForm\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\kurt.friedrich\Documents\BirdsForm\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\kurt.friedrich\Downloads\BirdsForm\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\kurt.friedrich\Downloads\BirdsForm\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\kurt.friedrich\Downloads\BirdsForm\ClassLibrary1\obj\Debug\ClassLibrary1.csprojResolveAssemblyReference.cache
+C:\Users\kurt.friedrich\Downloads\BirdsForm\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\kurt.friedrich\Downloads\BirdsForm\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\kurt.friedrich\Downloads\BirdsForm\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring2019\Mod-2-SQL_CMD\part2\BirdsForm\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring2019\Mod-2-SQL_CMD\part2\BirdsForm\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring2019\Mod-2-SQL_CMD\part2\BirdsForm\ClassLibrary1\obj\Debug\ClassLibrary1.csprojAssemblyReference.cache
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring2019\Mod-2-SQL_CMD\part2\BirdsForm\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring2019\Mod-2-SQL_CMD\part2\BirdsForm\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring2019\Mod-2-SQL_CMD\part2\BirdsForm\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\kurt.friedrich\Desktop\AAC-ISIT 310-Winter2021\004- SQL_CMD\part2\BirdsForm\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\kurt.friedrich\Desktop\AAC-ISIT 310-Winter2021\004- SQL_CMD\part2\BirdsForm\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\kurt.friedrich\Desktop\AAC-ISIT 310-Winter2021\004- SQL_CMD\part2\BirdsForm\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.AssemblyReference.cache
+C:\Users\kurt.friedrich\Desktop\AAC-ISIT 310-Winter2021\004- SQL_CMD\part2\BirdsForm\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\kurt.friedrich\Desktop\AAC-ISIT 310-Winter2021\004- SQL_CMD\part2\BirdsForm\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\kurt.friedrich\Desktop\AAC-ISIT 310-Winter2021\004- SQL_CMD\part2\BirdsForm\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\kurt.friedrich\Desktop\AAB-ISIT 310-Winter2021\004- SQL_CMD\part2\BirdsForm\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\kurt.friedrich\Desktop\AAB-ISIT 310-Winter2021\004- SQL_CMD\part2\BirdsForm\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\kurt.friedrich\Desktop\AAB-ISIT 310-Winter2021\004- SQL_CMD\part2\BirdsForm\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.AssemblyReference.cache
+C:\Users\kurt.friedrich\Desktop\AAB-ISIT 310-Winter2021\004- SQL_CMD\part2\BirdsForm\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\kurt.friedrich\Desktop\AAB-ISIT 310-Winter2021\004- SQL_CMD\part2\BirdsForm\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\kurt.friedrich\Desktop\AAB-ISIT 310-Winter2021\004- SQL_CMD\part2\BirdsForm\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\besta\Desktop\ISIT 310\003-SQL CMD\Part 3\BirdsForm\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\besta\Desktop\ISIT 310\003-SQL CMD\Part 3\BirdsForm\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\besta\Desktop\ISIT 310\003-SQL CMD\Part 3\BirdsForm\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.AssemblyReference.cache
+C:\Users\besta\Desktop\ISIT 310\003-SQL CMD\Part 3\BirdsForm\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\besta\Desktop\ISIT 310\003-SQL CMD\Part 3\BirdsForm\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\besta\Desktop\ISIT 310\003-SQL CMD\Part 3\BirdsForm\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

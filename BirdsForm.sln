@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BirdsForm", "BirdsForm\BirdsForm.csproj", "{54D8120A-C0B9-42CE-952B-7AB1E7773584}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary1", "ClassLibrary1\ClassLibrary1.csproj", "{32CE6A85-8CFE-457C-ACAC-DABF3896621D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{54D8120A-C0B9-42CE-952B-7AB1E7773584}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54D8120A-C0B9-42CE-952B-7AB1E7773584}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54D8120A-C0B9-42CE-952B-7AB1E7773584}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54D8120A-C0B9-42CE-952B-7AB1E7773584}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32CE6A85-8CFE-457C-ACAC-DABF3896621D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32CE6A85-8CFE-457C-ACAC-DABF3896621D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32CE6A85-8CFE-457C-ACAC-DABF3896621D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32CE6A85-8CFE-457C-ACAC-DABF3896621D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {065D0F36-248E-4D82-8981-5C72321C3EF7}
+	EndGlobalSection
+EndGlobal
